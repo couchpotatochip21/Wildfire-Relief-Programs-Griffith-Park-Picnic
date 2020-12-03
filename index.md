@@ -1,0 +1,26 @@
+<html>
+<head>
+<body>
+<style type ="text/css">
+A:LINK {
+color: #009900;
+font-size: 36px;
+font-family: Arial, Helvetica, sans-serif;
+}
+A:hover {
+color: #0000ff;
+font-size: 36px;
+font-family: arial, helvetica, sans-serif;
+}
+AA:visited {
+color: #ff0000;
+font-size: 36px;
+font-family: Arial Helvetica, sans-serif;
+}
+</style>
+<title>changing colors </title>
+</head>
+<body>
+<a href = http://www.google.com>this link </a> would be green, then turn blue when you point to it (hover over). If you click on it, it will be red when you return to the page
+</body>
+</html>
