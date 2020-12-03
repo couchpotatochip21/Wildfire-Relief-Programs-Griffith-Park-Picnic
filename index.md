@@ -1,2 +1,1 @@
-[link]www.google.com
-
+<a> href = https://google.com </a>
