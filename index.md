@@ -12,13 +12,24 @@
    .button {
    broder: none;
    color: white;
-   padding: 15px 32px;
+   padding: 16px 32px;
    text-align: center;
    text-decoration: none;
    display: inline-block;
    font-size: 16px;
    margin: 4px 2px;
+   transition-duration: 0.4s;
    cusor: pointer;
    }
-   .button1 {background-color: #2E7D32}
+   
+   .button1 {
+   background-color: white;
+   color: black;
+   border: 2px solid #2E7D32;
+   }
+   
+   .button1:hover {
+   background-color: #2E7D32;
+   color: white;
+   }
   </body>
