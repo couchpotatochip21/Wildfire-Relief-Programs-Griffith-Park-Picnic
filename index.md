@@ -8,5 +8,17 @@
    All the delicious food for sale will be made available thanks to our local barbeque vendors and restaurants. 
    Children are welcome. 
   </p>
-  <button type="button">Donate Here!</button>
+  <style>
+   .button {
+   broder: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+   cusor: pointer;
+   }
+   .button1 {background-color: #2E7D32}
   </body>
