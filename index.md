@@ -34,7 +34,6 @@
    }
    
   </style>
-  </head>
   <body>
  
  <button class="button button1">Donate!</button>
