@@ -33,4 +33,10 @@
    color: white;
    }
    
-  </body>
+  </style>
+  </head>
+  <body>
+ 
+ <button class="button button1">Donate!</button>
+ 
+ </body>
