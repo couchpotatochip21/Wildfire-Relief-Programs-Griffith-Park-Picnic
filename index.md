@@ -8,6 +8,9 @@
    All the delicious food for sale will be made available thanks to our local barbeque vendors and restaurants. 
    Children are welcome. 
   </p>
+  <p style="font-size:18px">
+   The Event will be located at Griffith park, and it will begin on 1/10/21 from 11am to 6pm.
+   </p>
   <style>
    .button {
    broder: none;
